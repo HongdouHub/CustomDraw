@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="function_title_list">
+        <item>01 canvas基本图形的绘制</item>
+        <item>02 XferMode层级叠加策略</item>
+        <item>03 canvas变换</item>
+        <item>04 Canvas保存与回滚</item>
+        <item>05 Canvas合成</item>
+        <item>06 绘制圆形头像</item>
+        <item>07 Matrix矩阵</item>
+        <item>08 自定义drawable</item>
+        <item>09 浏览图片demo</item>
+    </string-array>
+
+    <string-array name="function_text_list">
+        <item>通过canvas、使用Paint进行基本图形的绘制</item>
+        <item>遍历XferMode的层级叠加策略</item>
+        <item>通过canvas实现平移、旋转、缩放、仿射变换</item>
+        <item>canvas的堆栈操作实现Canvas保存与回滚</item>
+        <item>介绍Canvas如何合成</item>
+        <item>介绍两种绘制圆形头像的方法，第二种在图像的边缘有锯齿</item>
+        <item>Matrix矩阵的各种操作，内有多个例子，可以自己调试</item>
+        <item>自定义drawable实现一键清除动画</item>
+        <item>通过拖动控制顶点，实现图片的旋转、平移、缩放，还有view的事件响应</item>
+    </string-array>
+</resources>
